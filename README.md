@@ -1,2 +1,3 @@
 # test
 the beginning of the github learning
+in fact, I have learned git half years ago.however...
